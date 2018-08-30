@@ -1,10 +1,10 @@
-# Project Charter: [Name here]
+# Project Charter: Code Word (Team C)
 
-This is the project charter for the ___ project.
-This application will be delivered as a  ___ application. (e.g. web, iOS, Android)
+This is the project charter for the Code Word.
+This application will be delivered as a web application. (e.g. web, iOS, Android)
 
 - [View Published Version](https://profcase.github.io/project-charter-template)
-- [Source Code](https://github.com/profcase/project-charter-template)
+- [Source Code](https://github.com/chvnaveenkumar/project-charter-template)
 
 Update the links above and add team name, year, semester, course, or other important project information
 
@@ -12,7 +12,7 @@ Update the links above and add team name, year, semester, course, or other impor
 
 Clients include:
 
-- list each client and their email
+- Dr. Charles Hoot, hoot@nwmissouri.edu
 
 ## Mentor
 
@@ -20,17 +20,20 @@ Mentors include:
 
 - Dr. Denise Case, dcase@nwmissouri.edu
 
+##Collaborators
+Shivani Reddy Dodla,s531496@nwmissouri.edu
+
 ## Project Purpose
 
 ## Benefits
 
 ## User Roles
 
-This application is used by __ types of users.
+This application is used by students.
 
 1. Administrator
-2. Role 2 (name each role)
-3. Role 3...
+2. Instructor
+3. Student
 
 ## Stories by Role
 
@@ -44,11 +47,11 @@ This team is organized as follows.
 
 |                        | Primary   | Secondary   | Content |
 | ---------------------- | --------- | ----------- |---------|
-| Team Lead              |           |             | Repo, intro, budget, schedule, risk, coordination   |
-| Architect              |           |             | E-R diagram |
-| Data                   |           |             | Sample data |
-| UX                     |           |             | Sketches  |
-| Testing & Acceptance   |           |             | Stories, acceptance criteria |
+| Team Lead              |    Naveen |  Shivani    | Repo, intro, budget, schedule, risk, coordination   |
+| Architect              | Chaitanya |  Sreelekha  | E-R diagram |
+| Data                   |  Sreelekha|    Naveen   | Sample data |
+| UX                     | Shivani   |    Naveen   | Sketches  |
+| Testing & Acceptance   |   Wendy   |   Sreelekh  | Stories, acceptance criteria |
 
 ## Scope
 
