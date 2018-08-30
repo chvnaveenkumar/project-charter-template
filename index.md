@@ -23,6 +23,8 @@ Mentors include:
 ## Collaborators
 - Naveen Kumar Chandaluri, s530742@nwmissouri.edu
 - Shivani Reddy Dodla,s531496@nwmissouri.edu
+- Sreelekha Vijaya, s531382@nwmissouri.edu
+
 ## Project Purpose
 
 ## Benefits
