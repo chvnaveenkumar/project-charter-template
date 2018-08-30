@@ -3,7 +3,7 @@
 This is the project charter for the Code Word.
 This application will be delivered as a web application. (e.g. web, iOS, Android)
 
-- [View Published Version](https://profcase.github.io/project-charter-template)
+- [View Published Version](https://chvnaveenkumar.github.io/project-charter-template)
 - [Source Code](https://github.com/chvnaveenkumar/project-charter-template)
 
 Update the links above and add team name, year, semester, course, or other important project information
