@@ -1,4 +1,6 @@
-# Project Charter: Codewords App
+# Ignore this file.  Someone did the work assigned to me before I had access to the repo.
+
+## Project Charter: Codewords App
 
 This is the project charter for the Codewords App project.  This application will be delievered as a responsive web application.
 
