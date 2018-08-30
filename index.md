@@ -20,7 +20,7 @@ Mentors include:
 
 - Dr. Denise Case, dcase@nwmissouri.edu
 
-##Collaborators
+## Collaborators
 - Naveen Kumar Chandaluri, s530742@nwmissouri.edu
 - Shivani Reddy Dodla,s531496@nwmissouri.edu
 ## Project Purpose
