@@ -85,7 +85,7 @@ Deliverables:
 
 This phase includes the development of:
 
-- [Stories by role] (https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Stories%20by%20role.pdf)
+- [Stories by role](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Stories%20by%20role.pdf)
 - Initial acceptance criteria (link)
 - Initial E-R diagram (link)
 - Initial sample data (link)
