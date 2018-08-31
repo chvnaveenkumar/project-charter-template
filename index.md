@@ -25,7 +25,10 @@ Mentors include:
 - Shivani Reddy Dodla,s531496@nwmissouri.edu
 - Sreelekha Vijaya, s531382@nwmissouri.edu
 - cherukuru Chaithanya,S531495@nwmissouri.edu
+
 ## Project Purpose
+
+Creating Progressive Web Application for confidential codewords to each student in a course.
 
 ## Benefits
 
@@ -33,15 +36,25 @@ Mentors include:
 
 This application is used by students.
 
-1. Administrator
-2. Instructor
-3. Student
+1. Administrators
+2. Professors
+3. Students
 
 ## Stories by Role
 
-For each role, provide a numbered list of stories in the form "As a [user role], I want [some goal] so that [reason]".
+**Administators**
+1. Admin should be able to login the website.
+2. Admin can grant access to student and instructor.
+3. Admin can approve any changes made by the instructor.
 
-Stories will be maintained in JIRA. 
+**Students**
+1. Student should be able to login the website.
+2. Student can need to select the course to get the codeword.
+
+**Instructor**
+1. Instructor should be able to login the website.
+2. Instructor can add new course and upload excel sheet with student details (student ID’s, names and course ID) for each course.
+3. Instructor can delete the existing course for students if needed.
 
 ## Team Organization
 
@@ -72,7 +85,7 @@ Deliverables:
 
 This phase includes the development of:
 
-- Initial stories by role (link)
+- [Stories by role] (https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Stories%20by%20role.pdf)
 - Initial acceptance criteria (link)
 - Initial E-R diagram (link)
 - Initial sample data (link)
