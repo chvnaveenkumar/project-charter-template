@@ -87,9 +87,9 @@ This phase includes the development of:
 
 - [Stories by role](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Stories%20by%20role.pdf)
 - Initial acceptance criteria (link)
-- Initial E-R diagram (link)
-- Initial sample data (link)
-- Initial project sketches (link - images must be displayed)
+- [E-R diagram](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
+- [Sample Data](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
+- [Project Sketches](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Sketches.pdf)
 - For each phase, initial scope, schedule, budget (included in this document)
 
 
