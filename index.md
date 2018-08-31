@@ -91,6 +91,7 @@ This phase includes the development of:
 - [Sample Data](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
 - [Project Sketches](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Sketches.pdf)
 - For each phase, initial scope, schedule, budget (included in this document)
+- [RFP Document](https://github.com/profcase/rfp-codewords/blob/master/index.md)
 
 
 ### Phase 2 - Definition and planning (Module 2 and 3)
