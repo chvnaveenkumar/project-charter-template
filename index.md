@@ -89,11 +89,13 @@ Phase 1 will include the development of a detailed Project Charter to be present
 * Risks and assumptions
 
 Deliverables:
+
 - Project charter
 - Supporting artifacts (as described in this document)
 - Contract (link - the contract will reference this charter and supporting documents)
 
 This phase includes the development of:
+
 - Initial acceptance criteria (link)
 - [E-R diagram](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
 - [Sample Data](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Database%20Tables.xlsx)
@@ -153,12 +155,27 @@ Deliverables:
 
 The following items are specifically not included in this scope of work:
 
+- We can access the application offline once the webpage is loaded in the browser.
+- If we have the appropriate resources and time, we will deploy it into the canvas.
+
 ## Schedule
 
 The following general schedule will be followed:
 
-- Phase 1 completed and presented at the end of week 2. 
-- Client feedback and updates completed at the end of week 3.
+Phase1:
+  Following are the tasks completed in week 1:
+
+- Created repository and collaborated with the team members.
+- Analyzed Scope of the project
+- Designed ER diagram
+- Populated Sample data
+- Benefits of the project
+- Added project related documents into the cloud repository
+- Following are the tasks need to be completed in week 2:
+- Reviewing and modifying the documents if needed.
+- Meeting the client to know the requirements of the project.
+
+
 - Phase 2 completed and presented at the end of week 7.
 - Client feedback and updates completed at the end of week 8.
 - Phase 3 completed and presented at the end of week 12.
