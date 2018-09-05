@@ -163,15 +163,17 @@ The following items are specifically not included in this scope of work:
 The following general schedule will be followed:
 
 Phase1:
-  Following are the tasks completed in week 1:
 
+Following are the tasks completed in week 1:
 - Created repository and collaborated with the team members.
 - Analyzed Scope of the project
 - Designed ER diagram
 - Populated Sample data
 - Benefits of the project
 - Added project related documents into the cloud repository
-- Following are the tasks need to be completed in week 2:
+
+Following are the tasks need to be completed in week 2:
+
 - Reviewing and modifying the documents if needed.
 - Meeting the client to know the requirements of the project.
 
