@@ -103,6 +103,40 @@ This phase includes the development of:
 - For each phase, initial scope, schedule, budget (included in this document)
 - [RFP Document](https://github.com/profcase/rfp-codewords/blob/master/index.md)
 
+## sample table
+
+### Student Table
+|Student ID	|Course ID	|Student Name   |Codeword
+|-----------|-----------|---------------|--------|
+|S531482	|CSE1023	|WILLIAM	    |Whale_ Blue
+|S531483	|CSE1024	|JOHN	        |Shark_ whale
+|S531484	|CSE1025	|GEORGE	        |Elephant_ African
+|S531485	|CSE1026	|THOMAS	        |Elephant_ Indian
+|S531486	|CSE1027	|ARTHUR	        |Giraffe_ male
+|S531487	|CSE1028	|JAMES	        |Mule
+
+### Login Table
+|UserName	|Password	|Status
+|---------- |---------- |------|
+|WILLIAM	|MARY	    |s
+|DAVID	    |ANN	    |s
+|BRIAN	    |JEAN	    |s
+|DAVID	    |ANN	    |s
+|JAMES	    |SUSAN	    |s
+
+### Codewords
+Africa 
+
+Almond
+
+Anger
+
+America
+
+Bravo
+
+Bank
+
 ### Phase 2 - Definition and planning (Module 2 and 3)
 
 During Phase 2, the best parts of each platform-specific charter will be used to create a single, 
@@ -218,4 +252,5 @@ Bill estimation of phase1 for two weeks:
 
 - For each story, enumerate and clearly describe the acceptance criteria. 
 - Be specific - your client may have a very different definition of vague words. 
+
 
