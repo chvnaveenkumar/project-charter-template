@@ -196,12 +196,17 @@ The complete schedule is shown in the following Gantt chart:
 
 ## Budget
 
-Present project budget table here. 
+Bill estimation of phase1 for two weeks:
 
-- Budget must be by phase by team role.
-- For each role, assume each contributor will be working 10-12 billable hours per week for 15 weeks per semester
-- Use real-world billing rates. A company must bill you at twice your salary or more - practice proving your worth. 
-- Within the team, be specific on what each role will contribute to the budget and how this will be documented.
+ 1. For the first week:
+     - Number of hours worked - 16
+     - Wage rate per hour- $70
+     - Total bill for the first week = $ 1,120
+
+2. For the second week:
+    - Number of hours worked- 15
+    - Wage rate per hour - $70
+    - Total bill for the second week = $ 1,050
 
 ## Risk
 
