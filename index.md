@@ -32,6 +32,10 @@ Creating Progressive Web Application for confidential codewords to each student 
 
 ## Benefits
 
+1. Instead of printing out a separate codeword and distributing it among the students, the process is automated which will generate the codewords for all the students in a particular course.
+2. It is generating the new codeword each time a student enrolls the course.
+3. It makes it easy for the student as they need not memorize the codeword.
+
 ## User Roles
 
 This application is used by students.
