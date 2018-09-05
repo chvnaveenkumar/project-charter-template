@@ -89,7 +89,7 @@ This phase includes the development of:
 - Initial acceptance criteria (link)
 - [E-R diagram](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
 - [Sample Data](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
-- [Project Sketches](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Sketches.pdf)
+- [Project Sketches](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Modified%20Sketches.pdf)
 - For each phase, initial scope, schedule, budget (included in this document)
 - [RFP Document](https://github.com/profcase/rfp-codewords/blob/master/index.md)
 
