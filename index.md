@@ -191,3 +191,36 @@ The following have been identified as risks that could contribute to not making 
 - For each story, enumerate and clearly describe the acceptance criteria. 
 - Be specific - your client may have a very different definition of vague words. 
 
+## sample table
+
+### Student Table
+|Student ID	|Course ID	|Student Name   |Codeword
+|-----------|-----------|---------------|--------|
+|S531482	|CSE1023	|WILLIAM	    |Whale_ Blue
+|S531483	|CSE1024	|JOHN	        |Shark_ whale
+|S531484	|CSE1025	|GEORGE	        |Elephant_ African
+|S531485	|CSE1026	|THOMAS	        |Elephant_ Indian
+|S531486	|CSE1027	|ARTHUR	        |Giraffe_ male
+|S531487	|CSE1028	|JAMES	        |Mule
+
+### Login Table
+|UserName	|Password	|Status
+|---------- |---------- |------|
+|WILLIAM	|MARY	    |s
+|DAVID	    |ANN	    |s
+|BRIAN	    |JEAN	    |s
+|DAVID	    |ANN	    |s
+|JAMES	    |SUSAN	    |s
+
+### Codewords
+Africa 
+
+Almond
+
+Anger
+
+America
+
+Bravo
+
+Bank
