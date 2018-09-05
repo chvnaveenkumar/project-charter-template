@@ -85,7 +85,6 @@ Deliverables:
 
 This phase includes the development of:
 
-- [Stories by role](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Stories%20by%20role.pdf)
 - Initial acceptance criteria (link)
 - [E-R diagram](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
 - [Sample Data](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
