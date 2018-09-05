@@ -205,9 +205,9 @@ Present project budget table here.
 
 ## Risk
 
-The following have been identified as risks that could contribute to not making scope, budget, or schedule:
-
-- The client changes requirements mid-project...
+- Inadequate funding from the client.
+- Conflicts between the team members.
+- Delay of project completion due to unavailability of resources.
 
 ## Acceptance criteria
 
