@@ -76,16 +76,14 @@ This team is organized as follows.
 
 ### Phase 1 - Conception and initiation (Module 1)
 
-Phase 1 will include the development of a detailed Project Charter to be presented in Markdown or HTML with in-line images and tables (not Word). It will include at least the following sections.
+Phase 1 will include the development of a detailed Project Charter to be presented in Markdown with in-line images and tables (not Word). It will include at least the following sections.
 
 * Overview
 * Purpose
 * Benefits
-* Epics / Stories / Tasks
-* Acceptance criteria checklist
-* Contract scope / budget / schedule
+* Stories
+* scope 
 * User experience sketches
-* Stack information
 * E-R diagram
 * Sample data
 * Risks and assumptions
