@@ -234,7 +234,7 @@ The complete schedule is shown in the following Gantt chart:
 
 ## Budget
 
-Bill estimation of phase1 for two weeks:
+Bill estimation:
 
 | Week | No of Hours Worked | Wage Rate | Bill for per Person | No of Persons | Total Bill |
 |------|--------------------|-----------|---------------------|---------------|------------|
