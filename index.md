@@ -20,7 +20,10 @@ Mentors include:
 
 - Dr. Denise Case, dcase@nwmissouri.edu
 
-## Collaborators
+## Collaborator
+
+Collabrators include:
+
 - Naveen Kumar Chandaluri, s530742@nwmissouri.edu
 - Shivani Reddy Dodla,s531496@nwmissouri.edu
 - Sreelekha Vijaya, s531382@nwmissouri.edu
@@ -116,14 +119,15 @@ Student Table
 |S531486	   |CSE1027	  |ARTHUR	        |Giraffe_ male    |
 |S531487	   |CSE1028	  |JAMES	         |Mule             |
 
-### Login Table
-|UserName	|Password	|Status |
-|---------- |---------- |------|
-|WILLIAM	|MARY	    |s
-|DAVID	    |ANN	    |s
-|BRIAN	    |JEAN	    |s
-|DAVID	    |ANN	    |s
-|JAMES	    |SUSAN	    |s
+Login Table
+
+|UserName	  |Password	|Status |
+|-----------|---------|-------|
+|WILLIAM	   |MARY	    |s      |
+|DAVID	     |ANN	     |s      |
+|BRIAN	     |JEAN	    |s      |
+|DAVID	     |ANN	     |s      |
+|JAMES	     |SUSAN	   |s      |
 
 ### Codewords
 Africa 
@@ -154,7 +158,6 @@ Include:
 - Final stories by role (see above)
 - Final acceptance criteria (see above)
 - Final E-R diagram (link)
-- Final set of sample data (link)
 - Detailed project sketches by platform (link - images must be displayed)
 - Architectural decisions, including platforms, languages, frameworks, libraries, cloud resources, data stores, releases, milestones, authentication, authorization, responsive supports, progressive supports, security, performance requirements, traditional or SPA, client-side rendering vs server-side rendering, REST vs GraphQL, web vs native vs hybrid, etc.
 - List of projects with versions in JIRA
