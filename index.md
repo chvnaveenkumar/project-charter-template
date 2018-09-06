@@ -70,10 +70,10 @@ This team is organized as follows.
 |                        | Primary   | Secondary   | Content |
 | ---------------------- | --------- | ----------- |---------|
 | Team Lead              |    Naveen |  Shivani    | Repo, intro, budget, schedule, risk, coordination   |
-| Architect              | Chaitanya |  Sreelekha  | E-R diagram |
-| Data                   |  Sreelekha|    Naveen   | Sample data |
-| UX                     | Shivani   |    Naveen   | Sketches  |
-| Testing & Acceptance   |   Wendy   |   Sreelekh  | Stories, acceptance criteria |
+| Architect              |    Naveen |  Chaitanya  | E-R diagram |
+| Data                   |  Chaitanya|   Shivani   | Sample data |
+| UX                     |  Shivani  |    Sreelekha| Sketches  |
+| Testing & Acceptance   | Sreelekha |   Chaitanya | Stories, acceptance criteria |
 
 ## Scope
 
