@@ -12,22 +12,22 @@ Update the links above and add team name, year, semester, course, or other impor
 
 Clients include:
 
-- Dr. Charles Hoot, hoot@nwmissouri.edu
+- Dr. Charles Hoot, <hoot@nwmissouri.edu>
 
 ## Mentor
 
 Mentors include:
 
-- Dr. Denise Case, dcase@nwmissouri.edu
+- Dr. Denise Case, <dcase@nwmissouri.edu>
 
 ## Collaborator
 
 Collabrators include:
 
-- Naveen Kumar Chandaluri, s530742@nwmissouri.edu
-- Shivani Reddy Dodla,s531496@nwmissouri.edu
-- Sreelekha Vijaya, s531382@nwmissouri.edu
-- cherukuru Chaithanya,S531495@nwmissouri.edu
+- Naveen Kumar Chandaluri, <S530742@nwmissouri.edu>
+- Shivani Reddy Dodla, <S531496@nwmissouri.edu>
+- Sreelekha Vijaya, <S531382@nwmissouri.edu>
+- cherukuru Chaithanya, <S531495@nwmissouri.edu>
 
 ## Project Purpose
 
