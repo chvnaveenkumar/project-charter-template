@@ -88,6 +88,54 @@ Phase 1 will include the development of a detailed Project Charter to be present
 * Sample data
 * Risks and assumptions
 
+Deliverables:
+
+- Project charter
+- Supporting artifacts (as described in this document)
+- Contract (link - the contract will reference this charter and supporting documents)
+
+This phase includes the development of:
+
+- Initial acceptance criteria (link)
+- [E-R diagram](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
+- [Sample Data](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Database%20Tables.xlsx)
+- [Project Sketches](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Modified%20Sketches.pdf)
+- For each phase, initial scope, schedule, budget (included in this document)
+- [RFP Document](https://github.com/profcase/rfp-codewords/blob/master/index.md)
+
+## sample table
+
+### Student Table
+|Student ID	|Course ID	|Student Name   |Codeword
+|-----------|-----------|---------------|--------|
+|S531482	|CSE1023	|WILLIAM	    |Whale_ Blue
+|S531483	|CSE1024	|JOHN	        |Shark_ whale
+|S531484	|CSE1025	|GEORGE	        |Elephant_ African
+|S531485	|CSE1026	|THOMAS	        |Elephant_ Indian
+|S531486	|CSE1027	|ARTHUR	        |Giraffe_ male
+|S531487	|CSE1028	|JAMES	        |Mule
+
+### Login Table
+|UserName	|Password	|Status
+|---------- |---------- |------|
+|WILLIAM	|MARY	    |s
+|DAVID	    |ANN	    |s
+|BRIAN	    |JEAN	    |s
+|DAVID	    |ANN	    |s
+|JAMES	    |SUSAN	    |s
+
+### Codewords
+Africa 
+
+Almond
+
+Anger
+
+America
+
+Bravo
+
+Bank
 
 ### Phase 2 - Definition and planning (Module 2 and 3)
 
@@ -141,12 +189,29 @@ Deliverables:
 
 The following items are specifically not included in this scope of work:
 
+- We can access the application offline once the webpage is loaded in the browser.
+- If we have the appropriate resources and time, we will deploy it into the canvas.
+
 ## Schedule
 
 The following general schedule will be followed:
 
-- Phase 1 completed and presented at the end of week 2. 
-- Client feedback and updates completed at the end of week 3.
+Phase1:
+
+Following are the tasks completed in week 1:
+- Created repository and collaborated with the team members.
+- Analyzed Scope of the project
+- Designed ER diagram
+- Populated Sample data
+- Benefits of the project
+- Added project related documents into the cloud repository
+
+Following are the tasks need to be completed in week 2:
+
+- Reviewing and modifying the documents if needed.
+- Meeting the client to know the requirements of the project.
+
+
 - Phase 2 completed and presented at the end of week 7.
 - Client feedback and updates completed at the end of week 8.
 - Phase 3 completed and presented at the end of week 12.
@@ -165,24 +230,30 @@ The complete schedule is shown in the following Gantt chart:
 
 ## Budget
 
-Present project budget table here. 
+Bill estimation of phase1 for two weeks:
 
-- Budget must be by phase by team role.
-- For each role, assume each contributor will be working 10-12 billable hours per week for 15 weeks per semester
-- Use real-world billing rates. A company must bill you at twice your salary or more - practice proving your worth. 
-- Within the team, be specific on what each role will contribute to the budget and how this will be documented.
+ 1. For the first week:
+     - Number of hours worked - 16
+     - Wage rate per hour- $70
+     - Total bill for the first week = $ 1,120
+
+2. For the second week:
+    - Number of hours worked- 15
+    - Wage rate per hour - $70
+    - Total bill for the second week = $ 1,050
 
 ## Risk
 
-The following have been identified as risks that could contribute to not making scope, budget, or schedule:
-
-- The client changes requirements mid-project...
+- Inadequate funding from the client.
+- Conflicts between the team members.
+- Delay of project completion due to unavailability of resources.
 
 ## Acceptance criteria
 
 - For each story, enumerate and clearly describe the acceptance criteria. 
 - Be specific - your client may have a very different definition of vague words. 
 
+<<<<<<< HEAD
 ## sample table
 
 ### Student Table
@@ -216,3 +287,6 @@ America
 Bravo
 
 Bank
+=======
+
+>>>>>>> 719357db391da2a50204b48f68b33df204c549a7
