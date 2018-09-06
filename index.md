@@ -236,15 +236,15 @@ The complete schedule is shown in the following Gantt chart:
 
 Bill estimation of phase1 for two weeks:
 
- 1. For the first week:
-     - Number of hours worked - 16
-     - Wage rate per hour- $70
-     - Total bill for the first week = $ 1,120
-
-2. For the second week:
-    - Number of hours worked- 15
-    - Wage rate per hour - $70
-    - Total bill for the second week = $ 1,050
+| Week | No of Hours Worked | Wage Rate | Bill for per Person | No of Persons | Total Bill |
+|------|--------------------|-----------|---------------------|---------------|------------|
+| 1    | 16                 | 70        | $ 1,120             | 4             | $ 4,480    |
+| 2    | 15                 | 70        | $ 1,050             | 4             | $ 4,200    |
+| 3    | 16                 | 70        | $ 1,120             | 4             | $ 4,480    |
+| 4    | 17                 | 70        | $ 1,190             | 4             | $ 4,760    |
+| 5    | 17                 | 70        | $ 1,190             | 4             | $ 4,760    |
+| 6    | 18                 | 70        | $ 1,260             | 4             | $ 5,040    |
+| 7    | 18                 | 70        | $ 1,260             | 4             | $ 5,040    |
 
 ## Risk
 
@@ -256,41 +256,3 @@ Bill estimation of phase1 for two weeks:
 
 - For each story, enumerate and clearly describe the acceptance criteria. 
 - Be specific - your client may have a very different definition of vague words. 
-
-<<<<<<< HEAD
-## sample table
-
-### Student Table
-|Student ID	|Course ID	|Student Name   |Codeword
-|-----------|-----------|---------------|--------|
-|S531482	|CSE1023	|WILLIAM	    |Whale_ Blue
-|S531483	|CSE1024	|JOHN	        |Shark_ whale
-|S531484	|CSE1025	|GEORGE	        |Elephant_ African
-|S531485	|CSE1026	|THOMAS	        |Elephant_ Indian
-|S531486	|CSE1027	|ARTHUR	        |Giraffe_ male
-|S531487	|CSE1028	|JAMES	        |Mule
-
-### Login Table
-|UserName	|Password	|Status
-|---------- |---------- |------|
-|WILLIAM	|MARY	    |s
-|DAVID	    |ANN	    |s
-|BRIAN	    |JEAN	    |s
-|DAVID	    |ANN	    |s
-|JAMES	    |SUSAN	    |s
-
-### Codewords
-Africa 
-
-Almond
-
-Anger
-
-America
-
-Bravo
-
-Bank
-=======
-
->>>>>>> 719357db391da2a50204b48f68b33df204c549a7
