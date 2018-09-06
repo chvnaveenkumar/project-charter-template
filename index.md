@@ -106,7 +106,7 @@ This phase includes the development of:
 ## sample table
 
 ### Student Table
-|Student ID	|Course ID	|Student Name   |Codeword
+|Student ID	|Course ID	|Student Name   |Codeword |
 |-----------|-----------|---------------|--------|
 |S531482	|CSE1023	|WILLIAM	    |Whale_ Blue
 |S531483	|CSE1024	|JOHN	        |Shark_ whale
@@ -116,7 +116,7 @@ This phase includes the development of:
 |S531487	|CSE1028	|JAMES	        |Mule
 
 ### Login Table
-|UserName	|Password	|Status
+|UserName	|Password	|Status |
 |---------- |---------- |------|
 |WILLIAM	|MARY	    |s
 |DAVID	    |ANN	    |s
