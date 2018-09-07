@@ -102,7 +102,7 @@ This phase includes the development of:
 - Initial acceptance criteria (link)
 - [E-R diagram](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Entity%20Relationship%20Diagram%20for%20CodeWord%20Project.pdf)
 - [Sample Data](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Database%20Tables.xlsx)
-- [Project Sketches](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Modified%20Sketches.pdf)
+- [Project Sketches](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/Sketches.pdf)
 - For each phase, initial scope, schedule, budget (included in this document)
 - [RFP Document](https://github.com/profcase/rfp-codewords/blob/master/index.md)
 
@@ -159,6 +159,9 @@ Instructor Table
 | Dr.Hoot       | Android     |
 | Dr.Hoot       | IOS         |
 
+Sketches:
+
+![Sketches](/Documentation/Sketches.pdf)
 ### Phase 2 - Definition and planning (Module 2 and 3)
 
 During Phase 2, the best parts of each platform-specific charter will be used to create a single, 
