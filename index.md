@@ -71,9 +71,9 @@ This team is organized as follows.
 | ---------------------- | --------- | ----------- |---------|
 | Team Lead              |    Naveen |  Shivani    | Repo, intro, budget, schedule, risk, coordination   |
 | Architect              |    Naveen |  Chaitanya  | E-R diagram |
-| Data                   |  Chaitanya|   Shivani   | Sample data |
+| Data                   |  Chaitanya|   Naveen   | Sample data |
 | UX                     |  Shivani  |    Sreelekha| Sketches  |
-| Testing & Acceptance   | Sreelekha |   Chaitanya | Stories, acceptance criteria |
+| Testing & Acceptance   | Sreelekha |   Shivani | Stories, acceptance criteria |
 
 ## Scope
 
@@ -106,6 +106,9 @@ This phase includes the development of:
 - For each phase, initial scope, schedule, budget (included in this document)
 - [RFP Document](https://github.com/profcase/rfp-codewords/blob/master/index.md)
 
+E-R Diagram:
+
+
 ## sample table
 
 Student Table
@@ -129,18 +132,30 @@ Login Table
 |DAVID	     |ANN	     |s      |
 |JAMES	     |SUSAN	   |s      |
 
-### Codewords
-Africa 
+CodeWord Table
 
-Almond
+| Codewords | GroupName |
+|-----------|-----------|
+| Africa    | Default   |
+| Almond    | Default   |
+| Anger     | Default   |
+| America   | Default   |
+| Bravo     | 44561_codeWord   |
+| Bank      | 44561_codeword   |
+| Bounce    | 44561_codeword   |
+| Bigger    | 44561_codeword   | 
+| Computer  | 44562_codeword   |
+| Cancer    | 44562_codeword   |
+| Chair     | 44562_codeword   |
 
-Anger
+Instructor Table
 
-America
-
-Bravo
-
-Bank
+| Instructor ID | Course Name |
+|---------------|-------------|
+| Dr.Case       | Web App 01  |
+| Dr.Caase      | GDP 1       |
+| Dr.Hoot       | Android     |
+| Dr.Hoot       | IOS         |
 
 ### Phase 2 - Definition and planning (Module 2 and 3)
 
