@@ -161,7 +161,11 @@ Instructor Table
 
 Sketches:
 
-![Sketches](/Documentation/Sketches.pdf)
+![Sketches1](/Documentation/Sketches/Sketches1.png)
+![Sketches2](/Documentation/Sketches/Sketches2.png)
+![Sketches3](/Documentation/Sketches/Sketches3.png)
+![Sketches4](/Documentation/Sketches/Sketches4.png)
+
 ### Phase 2 - Definition and planning (Module 2 and 3)
 
 During Phase 2, the best parts of each platform-specific charter will be used to create a single, 
