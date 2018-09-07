@@ -108,7 +108,7 @@ This phase includes the development of:
 
 E-R Diagram:
 
-![E-R Diagram](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/ErDiagram.JPG)
+![E-R Diagram](https://github.com/chvnaveenkumar/project-charter-template/blob/master/Documentation/ErDiagram.png)
 
 
 ## sample table
