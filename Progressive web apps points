@@ -1,0 +1,20 @@
+Progressive web application take advanatge of new technologies to bring the best of mobile sites and native applications to users 
+They are reliable ,fast and engaging.
+Progressive web application offers the promise of being able to develop a single app and have it work perfectly across all platforms and devices
+They are higly responsive,Unlike Native Apps, Progressive apps are compatible with all kinds of browsers available, irrespective of a user’s geographical location
+Progressive Web Apps are safer and more secure than traditional web browsers or native apps.
+The fact that they work even in low connectivity areas is probably one of the most attractive features of Progressive Web Apps.
+They not only have a look and feel of native apps but with personalized push notifications, they are engaging more number of people.
+PWAs have a very high rate of discoverability. Since these applications are identified as apps they are treated like the traditional web content
+The progressive web app has a simple structure. It consists of the app shell and the changing content.
+The app shell is the HTML, CSS and JavaScript code which build the interface of the app. The interface is the static part of the app, it can dynamically display the content.
+The content is the dynamic part, it changes and is refreshed every time connection with the internet is established.
+There are some situations when an app is needed urgently, but the user does not have an internet connection. This problem is resolved in progressive web apps
+PWAs can significantly reduce page load times and thus improve overall UX.
+To start using the app just open the URL. Installing the application is not obligatory.
+PWA (Progressive web app) can be bookmarked to the home screen.
+The UI of these apps are such that they fit into to all devices like mobile, tablet, desktop & in every browser.
+Servicing and updates similar to that of a Mobile Application.
+Increased page load & performance of apps.
+The connection protocol is HTTPS so that the browsing experience will be secure, and safe.
+Progressive Web Apps are much less costly to develop than native or hybrid apps  
